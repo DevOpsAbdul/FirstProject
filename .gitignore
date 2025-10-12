@@ -15,25 +15,3 @@ Thumbs.db
 dist/
 build/
 out/
-
-# Ignore dependency directories
-bower_components/
-jspm_packages/
-
-# Ignore IDE/editor folders
-.vscode/
-.idea/
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
-
-# Ignore coverage reports
-coverage/
-*.lcov
-
-# Ignore temporary files
-*.tmp
-*.swp
-*.bak
-*.old
