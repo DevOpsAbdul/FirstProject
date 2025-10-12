@@ -126,6 +126,6 @@ This project is open-source and available under the **MIT License**.
 ## 👨‍💻 Author
 
 **Your Name**
-💼 [LinkedIn](https://linkedin.com/in/yourprofile) | 🐙 [GitHub](https://github.com/yourusername)
+💼 [LinkedIn](https://www.linkedin.com/in/abdelfatah-hussein-19b445145/) | 🐙 [GitHub](https://github.com/DevOpsAbdul)
 
 > “Automate everything. Deploy everywhere.” 🚀
