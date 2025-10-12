@@ -129,12 +129,3 @@ This project is open-source and available under the **MIT License**.
 💼 [LinkedIn](https://linkedin.com/in/yourprofile) | 🐙 [GitHub](https://github.com/yourusername)
 
 > “Automate everything. Deploy everywhere.” 🚀
-
-```
-
----
-
-Would you like me to:
-- 🔧 Add a **GitHub Actions CI/CD pipeline** (auto-build & deploy on push)?  
-- or 📦 make this **Docker Hub–ready** (with example `docker push` instructions)?
-```
