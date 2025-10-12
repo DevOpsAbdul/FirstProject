@@ -85,13 +85,15 @@ This workflow helped me understand the basics of containerized deployments.
 
 ---
 
-## 🔗 GitHub Repository
+🔗 Connect with Me
 
-Check out the project here: (https://github.com/DevOpsAbdul/FirstProject)
+Follow my DevOps journey on LinkedIn:
+(https://www.linkedin.com/in/abdelfatah-hussein-19b445145/)
+
+---
+
+## Thank you for following my DevOps journey!
 
 ---
 
-Thank you for following my DevOps journey!
-
----
 
