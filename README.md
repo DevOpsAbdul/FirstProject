@@ -20,8 +20,8 @@ The goal was to get hands-on experience with containerization, reproducible envi
 * Create a static HTML website
 * Serve it using **Nginx**
 * Package the website in a **Docker container**
-* Deploy locally with Docker Compose
-* Learn Docker image building and container deployment
+* Deploy locally with **Docker Compose**
+* Learn **Docker** image building and container deployment
 
 ---
 
