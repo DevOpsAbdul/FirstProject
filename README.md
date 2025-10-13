@@ -88,7 +88,7 @@ This workflow helped me understand the basics of containerized deployments.
 🔗 Connect with Me
 
 Follow my DevOps journey on LinkedIn:
-(https://www.linkedin.com/in/abdelfatah-hussein-19b445145/)
+https://www.linkedin.com/in/abdelfatah-hussein-19b445145/
 
 ---
 
