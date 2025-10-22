@@ -1,4 +1,4 @@
-# 🚀 Simple HTML Site — Dockerized DevOps Project
+# Simple HTML Site — Dockerized DevOps Project
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
@@ -7,7 +7,7 @@
 
 ---
 
-# 🌐 My First GitHub DevOps Project
+## My First GitHub DevOps Project
 
 This project is where I applied my first weeks of DevOps learning into practice. I built a **simple static HTML website** and deployed it using **Docker** and **Nginx**.
 
@@ -15,7 +15,7 @@ The goal was to get hands-on experience with containerization, reproducible envi
 
 ---
 
-## 📌 Project Goals
+## Project Goals
 
 * Create a static HTML website
 * Serve it using **Nginx**
@@ -25,8 +25,7 @@ The goal was to get hands-on experience with containerization, reproducible envi
 
 ---
 
-## 📁 Project Structure
-
+## Project Structure
 ```
 FirstProject/
 ├── index.html          # Main static HTML page
@@ -37,28 +36,26 @@ FirstProject/
 
 ---
 
-## 🚀 Deployment Steps (My Process)
+## Deployment Steps
 
-1️⃣ Built the Docker image for the project.
-
-2️⃣ Ran the container locally and mapped port 80 to 8080.
-
-3️⃣ Opened the website in a browser at `http://localhost:8080` to verify it was running successfully.
+1. Built the Docker image for the project
+2. Ran the container locally and mapped port 80 to 8080
+3. Opened the website in a browser at `http://localhost:8080` to verify it was running successfully
 
 This workflow helped me understand the basics of containerized deployments.
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
-* The project uses the official `nginx:alpine` image.
-* `index.html` is served by Nginx from its default web root.
-* Docker ensures the environment is consistent and portable.
-* Docker Compose can be used to manage the container more easily.
+* The project uses the official `nginx:alpine` image
+* `index.html` is served by Nginx from its default web root
+* Docker ensures the environment is consistent and portable
+* Docker Compose can be used to manage the container more easily
 
 ---
 
-## 💡 What I Learned
+## What I Learned
 
 * How Docker containers work and how to build them
 * Using Nginx to serve static content
@@ -67,16 +64,17 @@ This workflow helped me understand the basics of containerized deployments.
 
 ---
 
-## 📌 Current Status
+## Current Status
 
-✅ HTML website deployed
-✅ Docker container running successfully
-✅ Nginx serving static content
-✅ Docker Compose setup working
+**Completed:**
+- HTML website deployed
+- Docker container running successfully
+- Nginx serving static content
+- Docker Compose setup working
 
 ---
 
-## 🧐 What are my next steps
+## Next Steps
 
 * Add CI/CD pipeline (GitHub Actions) for automatic builds
 * Deploy to a cloud provider (AWS / Azure / GCP)
@@ -85,15 +83,18 @@ This workflow helped me understand the basics of containerized deployments.
 
 ---
 
-🔗 Connect with Me
+## Connect with Me
 
-Follow my DevOps journey on LinkedIn:
-https://www.linkedin.com/in/abdelfatah-hussein-19b445145/
-
----
-
-## Thank you for following my DevOps journey!
+Follow my DevOps journey on LinkedIn:  
+[https://www.linkedin.com/in/abdelfatah-hussein-19b445145/](https://www.linkedin.com/in/abdelfatah-hussein-19b445145/)
 
 ---
 
+## Author
 
+**Abdul Hussein**  
+*Aspiring DevOps Engineer*
+
+---
+
+Thank you for following my DevOps journey!
